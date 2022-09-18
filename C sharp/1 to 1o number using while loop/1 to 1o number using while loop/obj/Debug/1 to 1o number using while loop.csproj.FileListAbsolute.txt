@@ -1,0 +1,8 @@
+E:\1st august DotNet\1 to 1o number using while loop\1 to 1o number using while loop\bin\Debug\1 to 1o number using while loop.exe.config
+E:\1st august DotNet\1 to 1o number using while loop\1 to 1o number using while loop\bin\Debug\1 to 1o number using while loop.exe
+E:\1st august DotNet\1 to 1o number using while loop\1 to 1o number using while loop\bin\Debug\1 to 1o number using while loop.pdb
+E:\1st august DotNet\1 to 1o number using while loop\1 to 1o number using while loop\obj\Debug\1 to 1o number using while loop.csproj.AssemblyReference.cache
+E:\1st august DotNet\1 to 1o number using while loop\1 to 1o number using while loop\obj\Debug\1 to 1o number using while loop.csproj.SuggestedBindingRedirects.cache
+E:\1st august DotNet\1 to 1o number using while loop\1 to 1o number using while loop\obj\Debug\1 to 1o number using while loop.csproj.CoreCompileInputs.cache
+E:\1st august DotNet\1 to 1o number using while loop\1 to 1o number using while loop\obj\Debug\1 to 1o number using while loop.exe
+E:\1st august DotNet\1 to 1o number using while loop\1 to 1o number using while loop\obj\Debug\1 to 1o number using while loop.pdb
